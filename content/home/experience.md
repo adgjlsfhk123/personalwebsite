@@ -22,14 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 合夥律師
+    company: 永信法律事務所
+    company_url: 'http://www.linshih.com.tw'
+    location: 臺灣臺北市
+    date_start: '2025-01-01'
+    date_end: ''
+    description: 
   - title: 初級合夥律師
     company: 永信法律事務所
     company_url: 'http://www.linshih.com.tw'
     location: 臺灣臺北市
     date_start: '2020-10-02'
     date_end: ''
-    description:
-      '' 
+    description: 
   - title: 律師
     company: 永信法律事務所
     company_url: 'http://www.linshih.com.tw'
